@@ -1,0 +1,59 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code files
+.vscode/
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# DotCover
+*.dotCover
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Config files that might contain secrets
+config.txt
+appsettings.Development.json
+appsettings.Secret.json
+
+# Publish folders
+publish/
+PublishProfiles/
+
+# Others
+*.pidb
+*.cache
+*.bak
+*.backup
+*.tmp
+
+# Dependency directories
+node_modules/
